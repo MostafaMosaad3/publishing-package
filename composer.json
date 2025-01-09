@@ -1,5 +1,5 @@
 {
-    "name": "itsp/authpackage",
+    "name": "itsp/auth_package",
     "description": "A simple package to handle authentication",
     "type": "library",
     "license": "MIT",
