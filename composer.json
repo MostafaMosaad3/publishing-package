@@ -1,5 +1,5 @@
 {
-    "name": "myvendor/authpackage",
+    "name": "itsp/authpackage",
     "description": "A simple package to handle authentication",
     "type": "library",
     "license": "MIT",
